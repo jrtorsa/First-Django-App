@@ -7,29 +7,29 @@ You need to create a virtual environment in order to run the most updated versio
 Follow this steps.
 
 <b>#to get the most recent version of pip.</b><br>
-1. python3 -m pip install --upgrade pip
+ python3 -m pip install --upgrade pip
 
 <b>#to locate where is the virtual env.</b><br>
-2. which virtualenv
+ which virtualenv
 
 <b>#to locate the folder of your current version of pyhton.</b><br>
-3. which python3
+ which python3
 
-4. Access the folder in which you want to run the virtual env.
+ Access the folder in which you want to run the virtual env.
 
-5. virtualenv -p /usr/local/bin/python3 venv
+ virtualenv -p /usr/local/bin/python3 venv
 
 <b>#this command inits the virtual env.</b><br>
-6. source venv/bin/activate
+ source venv/bin/activate
 
 <b>#Checking the python version</b><br>
-7.python -V 
+ python -V 
 
 <b>#Deactiviting your virtual env.</b><br>
-8. deactivate 
+ deactivate 
 
 <b>#If you want to delete your virtual env.</b><br>
-9. rm -rf venv
+ rm -rf venv
 
 <b>Setting up Django.</b><br>
 
