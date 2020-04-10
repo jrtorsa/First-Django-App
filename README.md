@@ -30,3 +30,13 @@ Follow this steps.
 
 #If you want to delete your virtual env.
 9. rm -rf venv
+
+Setting up Django.
+
+<b> I GUESS you have to pip install django for everytime you do it in a virtual env.</b>
+Try - python -m django --version - just to check.
+type - django-admin - You will see for the subcommands.
+To start a project.
+- django-admin startproject 'name of project'
+Important! Access the folder of your projecto, then run:
+- python3 manage.py runserver
