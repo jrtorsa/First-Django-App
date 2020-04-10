@@ -33,10 +33,10 @@ Follow this steps.
 
 Setting up Django.
 
-<b> I GUESS you have to pip install django for everytime you do it in a virtual env.</b>
+<b> I GUESS you have to pip install django for everytime you do it in a virtual env.</b><br>
 Try - python -m django --version - just to check.
 type - django-admin - You will see for the subcommands.
-To start a project.
+<b>To start a project.</b><br>
 - django-admin startproject 'name of project'
 Important! Access the folder of your projecto, then run:
 - python3 manage.py runserver
