@@ -1,12 +1,12 @@
 # First-Django-App
-My first Django app. 
-
-Setting up the environment:
-
+<b>My first Django app.</b><br> 
+<br>
+<b>Setting up the environment:</b><br>
+<br>
 You need to create a virtual environment in order to run the most updated version of Django.
 Follow this steps.
 
-#to get the most recent version of pip.
+<b>#to get the most recent version of pip.</b><br>
 1. python3 -m pip install --upgrade pip
 
 #to locate where is the virtual env.
@@ -37,6 +37,7 @@ Setting up Django.
 Try - python -m django --version - just to check.
 type - django-admin - You will see for the subcommands.
 <b>To start a project.</b><br>
+
 - django-admin startproject 'name of project'
 Important! Access the folder of your projecto, then run:
 - python3 manage.py runserver
